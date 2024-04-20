@@ -1,0 +1,37 @@
+.button {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url('./images/Fungi.svg');
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .button:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }

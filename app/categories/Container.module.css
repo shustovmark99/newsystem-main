@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* 3 столбца */
+    grid-column-gap: 24px; /* Одинаковое расстояние между кнопками */
+    flex-direction: row;
+    position: absolute; /* абсолютное позиционирование */
+    top: 70%; /* отступ сверху */
+    left: 50%; /* отступ слева */
+    transform: translate(-50%, -50%); /* позиционируют его относительно верхнего левого угла */
+    
+  }

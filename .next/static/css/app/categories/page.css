@@ -1,0 +1,614 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/animal.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.animal_button__IJUpF {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.2s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/animal.19d5438d.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .animal_button__IJUpF:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/cell culture.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+.cell_culture_button__c0ymZ {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/cell_culture.822efb20.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .cell_culture_button__c0ymZ:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/cell.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.cell_button__sBZ9i {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/cell.e7e7fab7.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .cell_button__sBZ9i:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/fungi.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.fungi_button__qJdjk {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/Fungi.6f0e7bcc.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .fungi_button__qJdjk:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!**************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/genetic material.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************************/
+.genetic_material_button__LrUf4 {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/Genetic-Material.cca70839.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .genetic_material_button__LrUf4:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/human biospecimen.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************************/
+.human_biospecimen_button__uv_jv {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/human.1e1aea53.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .human_biospecimen_button__uv_jv:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/molecule.module.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************/
+.molecule_button__vBij0 {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/molecule.0eb61dff.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .molecule_button__vBij0:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/organ.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.organ_button__BEoHN {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/organ.c633826f.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .organ_button__BEoHN:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/organelle.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.organelle_button__T16Lq {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/organelle.70381ff7.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .organelle_button__T16Lq:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/other.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.other_button__C_Ykq {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/other.7a20ab10.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .other_button__C_Ykq:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/tissue.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************/
+.tissue_button__r1Sh0 {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/tissue.6051a97a.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .tissue_button__r1Sh0:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/virus.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.virus_button__cIIih {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/viruses.4ea33c10.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .virus_button__cIIih:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/plant.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.plant_button__vsPSR {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/plant.d07618c8.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .plant_button__vsPSR:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/protist.module.css ***!
+  \*****************************************************************************************************************************************************************************************************************************************************************************/
+.protist_button__iv56m {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/Protist.2a1b950a.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .protist_button__iv56m:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/prokaryote.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************/
+.prokaryote_button__Q_gZ9 {
+    /display: flex;
+    background-color: rgb(255, 255, 255);
+    padding: 0.3rem 0.6rem 0.3rem 0.6rem; /* Управления отступами внутри элемента */
+    border-radius: 10px;
+    font-size: 1rem;
+    transition: background-color 0.4s; /* Добавляем плавное изменение цвета */
+
+    background-image: url(/_next/static/media/prokaryote.7c59ec37.svg);
+    background-size: 35px; /* Ширина и Высота */
+    background-position: 7px 12px; /* Отступ от левого края Отступ от верхнего края */
+    background-repeat: no-repeat; /* Повторение фонового изображения */
+    
+    width: 330px; /* Ширина кнопки */
+    height: 55px; /* Высота кнопки */
+    line-height: 1.5; /* Межстрочный интервал */
+    flex-grow: 1; /* Насколько элемент flexbox может расти */
+
+    vertical-align: bottom; /* Вертикальное выравнивание */
+    text-transform: uppercase; /* Превращаем текст кнопки в заглавные буквы */
+    font-weight: 600; /* Жирность текста */
+    color: #120D43;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Устанавливаем шрифт */
+    
+    flex-shrink: 0; /* Сжатие изображения */
+    justify-content: space-between; /* Распределение элементов внутри контейнера */
+    margin-bottom: 16px; /* Отступ снизу элемента. */
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    align-items: center; /* Выравнивание элементов внутри контейнера */
+
+    -webkit-font-smoothing: antialiased;
+    
+  }
+  
+  .prokaryote_button__Q_gZ9:hover {
+    background-color: #8f93ba; /* Изменяем цвет при наведении курсора */
+  }
+/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[11].oneOf[7].use[3]!./app/categories/Container.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************/
+.Container_container__JHVYp {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* 3 столбца */
+    grid-column-gap: 24px; /* Одинаковое расстояние между кнопками */
+    flex-direction: row;
+    position: absolute; /* абсолютное позиционирование */
+    top: 70%; /* отступ сверху */
+    left: 50%; /* отступ слева */
+    transform: translate(-50%, -50%); /* позиционируют его относительно верхнего левого угла */
+    
+  }
